@@ -17,9 +17,14 @@
 
 # Screeps Config
 screeps.json
+rollup*
 
 # ScreepsServer data from integration tests
 /server
+
+# Screeps other
+main.js
+code
 
 # Numerous always-ignore extensions
 *.diff
